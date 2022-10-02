@@ -1,0 +1,8 @@
+td{
+    transition: 0.4s ease all;
+}
+
+td:hover{
+    transition: 0.2s;
+    background-color: red;
+}
